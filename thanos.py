@@ -22,7 +22,7 @@ else: print('no get it right, 1 times 1 is always 1')
 time.sleep(1)
 choice_5 = raw_input('10 * 10  -->  ')                                         
 if choice_5 == '100':
-    print('gud job you can count!')
+  print('gud job you can count!')
   print(r'your reward:')
   time.sleep(1)
   print('nothing! ofc')
