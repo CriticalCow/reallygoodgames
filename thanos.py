@@ -1,4 +1,5 @@
 import time
+
 print(r'welcome to CriticalCows super fun game!')                              
 time.sleep(2)                                                                  
 print('HOW TO PLAY')                                                           
@@ -33,6 +34,6 @@ if choice_6 == 'ok':
   choice_7 = raw_input('5 * 5  -->  ')
 if choice_7 == '25':
   print('ok')
-  print('im still making this game wait')                                      
+  print('im still making this really good game just wait')                                      
   print('this is the end')
   print('---------------')
